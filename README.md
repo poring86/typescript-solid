@@ -24,3 +24,5 @@ nesse caso deveriamos criar uma outra interface para essa classe sem o método e
 DIP — Dependency Inversion Principle (Princípio da inversão da dependência)
 Esse princípio define que uma class não pode depender exclusivamente da instancia de uma outra classe. Por exemplo, uma classe "Filme" não pode depender executar uma instãncia diretamente de uma classe "CategoriaTerror".
 O correto seria criar uma interface "Categoria" para não existir mais essa dependência diretamente.
+
+![image](https://github.com/poring86/typescript-solid/assets/10561627/728f9693-8198-40c4-9c31-6f89c728804d)
