@@ -1,4 +1,4 @@
-Ele é um acronimo criado por Michael Feathers baseado nos princípios definidos no livro Agile Sofware Development, que foi escrito por Robert C. Martin, o famoso Uncle BOB.
+SOLID é um acronimo criado por Michael Feathers baseado nos princípios definidos no livro Agile Sofware Development, que foi escrito por Robert C. Martin, o famoso Uncle BOB.
 
 Ele define cinco princípios de orientação a objetos, para escrever um código mais limpo e escalável. Aqui vai um resumo para cada um deles para enteder de forma bem símples.
 
