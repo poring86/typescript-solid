@@ -1,6 +1,6 @@
 // Liskov Substituition Principle
 
-// Uma classe filho deve poder utilizar todos os métodos da classe pai e substituida por ela
+// Uma classe filho deve poder utilizar todos os métodos da classe pai e substituir ela
 
 
 class Movie{
